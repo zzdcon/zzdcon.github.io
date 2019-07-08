@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[测试文章]]></title>
-    <url>%2F2019%2F07%2F08%2Ftest%2F</url>
-    <content type="text"><![CDATA[测试文章]]></content>
-  </entry>
-  <entry>
     <title><![CDATA[我的第一篇blog]]></title>
     <url>%2F2019%2F04%2F08%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87blog%2F</url>
     <content type="text"><![CDATA[这是一个开始]]></content>
